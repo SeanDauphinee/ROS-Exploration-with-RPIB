@@ -11,3 +11,6 @@ in the form of a data package. To do this both the master and the nodes need to 
 
 The first part of this project was to set up ROS on two machines. The first is the RPi 4B which was done by flashing a microSD with Ubuntu 22.04.
 I then set up a virtual machine running Ubuntu 22.04 on my computer and installed ROS2 Humble. 
+
+## Goal for this Project
+Make an autonomus robot.
