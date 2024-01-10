@@ -97,6 +97,5 @@ void turnRight(int duration, int pwm_1, int pwm_2) {
 }
 
 void loop() {
-  // Read and send sensor data periodically
-    // Adjust delay based on your application requirements
+  
 }
